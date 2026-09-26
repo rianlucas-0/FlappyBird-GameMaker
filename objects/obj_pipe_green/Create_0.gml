@@ -1,1 +1,1 @@
-speed = -3;
+speed = -3-global.level;

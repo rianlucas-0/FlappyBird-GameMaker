@@ -4,6 +4,6 @@ if (global.game_over == false)
 	{
 		instance_create_layer(160, 125, layer,obj_player);
 		global.game_start = true;
+		alarm[0] = room_speed;
 	}
-	alarm[0] = room_speed;
 }
