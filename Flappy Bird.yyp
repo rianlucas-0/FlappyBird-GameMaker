@@ -35,6 +35,7 @@
   },
   "name":"Flappy Bird",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_background_day","path":"sprites/spr_background_day/spr_background_day.yy",},},
     {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
