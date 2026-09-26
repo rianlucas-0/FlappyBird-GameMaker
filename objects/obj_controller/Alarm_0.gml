@@ -1,6 +1,6 @@
 if (instance_exists(obj_player))
 {
-	var _y = irandom_range(544,352);
+	var _y = irandom_range(352,544);
 	var _y_top = _y - 300;
 	var _x = 1056;
 	
