@@ -35,6 +35,8 @@
   },
   "name":"Flappy Bird",
   "resources":[
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
+    {"id":{"name":"obj_destroy_pipe","path":"objects/obj_destroy_pipe/obj_destroy_pipe.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_pipe_green_top","path":"objects/obj_pipe_green_top/obj_pipe_green_top.yy",},},
     {"id":{"name":"obj_pipe_green","path":"objects/obj_pipe_green/obj_pipe_green.yy",},},
@@ -47,6 +49,7 @@
     {"id":{"name":"snd_wing","path":"sounds/snd_wing/snd_wing.yy",},},
     {"id":{"name":"spr_background_day","path":"sprites/spr_background_day/spr_background_day.yy",},},
     {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
+    {"id":{"name":"spr_destroy_pipe","path":"sprites/spr_destroy_pipe/spr_destroy_pipe.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
     {"id":{"name":"spr_pipe_green_top","path":"sprites/spr_pipe_green_top/spr_pipe_green_top.yy",},},
     {"id":{"name":"spr_pipe_green","path":"sprites/spr_pipe_green/spr_pipe_green.yy",},},
