@@ -36,6 +36,8 @@
   "name":"Flappy Bird",
   "resources":[
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
+    {"id":{"name":"obj_pipe_green_top","path":"objects/obj_pipe_green_top/obj_pipe_green_top.yy",},},
+    {"id":{"name":"obj_pipe_green","path":"objects/obj_pipe_green/obj_pipe_green.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"snd_die","path":"sounds/snd_die/snd_die.yy",},},
@@ -46,6 +48,7 @@
     {"id":{"name":"spr_background_day","path":"sprites/spr_background_day/spr_background_day.yy",},},
     {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_pipe_green_top","path":"sprites/spr_pipe_green_top/spr_pipe_green_top.yy",},},
     {"id":{"name":"spr_pipe_green","path":"sprites/spr_pipe_green/spr_pipe_green.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
