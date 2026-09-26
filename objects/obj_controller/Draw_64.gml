@@ -1,3 +1,5 @@
+draw_text(512,64,global.pontos);
+
 if(global.game_start == false)
 {
 	var center_x = room_width / 2;
